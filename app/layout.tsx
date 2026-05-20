@@ -32,6 +32,9 @@ export const metadata: Metadata = {
     type: "website",
     locale: "ru_RU",
   },
+  verification: {
+    google: "google2633e6f8a6d3467e",
+  },
 }
 
 export const viewport: Viewport = {
